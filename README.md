@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Harshil2one
-- 👀 I’m interested in Javascript.
+- 👋 Hi, I’m Harshil Babariya
+- 👀 I’m interested in Javascript/Typescript.
 - 🌱 I’m currently learning NestJs.
 - 💞️ I’m looking to collaborate on ReactJs projects.
 
